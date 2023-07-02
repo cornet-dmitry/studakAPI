@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "studakAPI", "studakAPI\studakAPI.csproj", "{405729B5-0A65-401A-9065-A808A7B908D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{405729B5-0A65-401A-9065-A808A7B908D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405729B5-0A65-401A-9065-A808A7B908D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405729B5-0A65-401A-9065-A808A7B908D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405729B5-0A65-401A-9065-A808A7B908D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
